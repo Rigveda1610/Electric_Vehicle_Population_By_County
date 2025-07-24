@@ -2,12 +2,12 @@
 
 This project forecasts electric vehicle (EV) adoption using time-series forecasting and machine learning models. It includes data exploration, visualization, and model training to predict future trends.
 
- 📁 Files
+  Files
 
 - `EV_Adoption_Forecasting.ipynb` — Main Jupyter notebook containing data analysis, modeling, and visualizations.
 - `requirements.txt` — Python dependencies required to run the notebook.
 
- 🧪 Technologies Used
+  Technologies Used
 
 - Python
 - Pandas
@@ -16,7 +16,7 @@ This project forecasts electric vehicle (EV) adoption using time-series forecast
 - Seaborn
 - Scikit-learn
 
- 📊 Features
+  Features
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -24,10 +24,4 @@ This project forecasts electric vehicle (EV) adoption using time-series forecast
 - Model Evaluation with Metrics
 - Visualizations of Results
 
- ▶️ Getting Started
-
- 1. Clone the Repository
-
-```bash
-git clone https://github.com/Rigveda1610/EV-Adoption-Forecasting.git
-cd EV-Adoption-Forecasting
+ 
